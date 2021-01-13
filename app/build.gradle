@@ -7,7 +7,11 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.mapactivity"
+=======
+        applicationId "com.example.activitymarker"
+>>>>>>> 54c2ec1 (files added)
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

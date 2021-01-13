@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name = "MapActivity"
+=======
+rootProject.name = "ActivityMarker"
+>>>>>>> 54c2ec1 (files added)

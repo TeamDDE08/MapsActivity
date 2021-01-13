@@ -1,4 +1,11 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MapActivity</string>
     <string name="activity_main">Map Activity</string>
+=======
+    <string name="app_name">ActivityMarker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyDKV0Ft7xWqxmgdHHwI4gyqX7oNmyzrS44</string>
+
+>>>>>>> 54c2ec1 (files added)
 </resources>
